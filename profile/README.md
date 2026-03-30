@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://meetdewey.com">
+    <img src="./logo.png" alt="Dewey" width="120" />
+  </a>
+</p>
+
 ## Dewey
 
   Real-time document backend for AI applications. Upload a document collection and Dewey handles conversion, section
@@ -20,7 +26,7 @@
 
   ### Quick start
 
-  \```bash
+  ```bash
   # MCP — add to Claude Desktop, ChatGPT, or Cursor
   npx -y @meetdewey/mcp
 
@@ -29,6 +35,6 @@
 
   # Python
   pip install dewey-sdk
-  \```
+  ```
 
   Sign up at [meetdewey.com](https://meetdewey.com) to get an API key. Free tier available, no credit card required.
