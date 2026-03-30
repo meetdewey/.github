@@ -10,7 +10,7 @@
   extraction, chunking, and embedding. All immediately queryable via REST API, TypeScript/Python SDKs, or directly inside
    Claude, ChatGPT, and Cursor via MCP.
 
-  **[meetdewey.com](https://meetdewey.com)** · **[Docs](https://meetdewey.com/docs)** ·
+  **[meetdewey.com](https://meetdewey.com)** · **[Product](https://meetdewey.com/product)** · **[Docs](https://meetdewey.com/docs)** ·
   **[Pricing](https://meetdewey.com/pricing)**
 
   ---
