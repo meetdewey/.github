@@ -19,10 +19,11 @@
 
   | Package | Description |
   |---|---|
-  | [`@meetdewey/mcp`](https://github.com/meetdewey/mcp) | MCP server — use your document collections in Claude, ChatGPT,
-   and Cursor |
+  | [`@meetdewey/mcp`](https://github.com/meetdewey/mcp) | MCP server — use your document collections in Claude, ChatGPT, and Cursor |
   | [`@meetdewey/sdk`](https://github.com/meetdewey/typescript-sdk) | Official TypeScript SDK |
-  | [`dewey-sdk`](https://github.com/meetdewey/python-sdk) | Official Python SDK |
+  | [`meetdewey`](https://github.com/meetdewey/python-sdk) | Official Python SDK |
+  | [`langchain-dewey`](https://github.com/meetdewey/langchain-dewey) | LangChain integration — retriever, vector store, and research tool |
+  | [`streamlit-demo`](https://github.com/meetdewey/streamlit-demo) | Streamlit demo app — build a document Q&A UI in minutes |
 
   ### Quick start
 
@@ -34,7 +35,10 @@
   npm install @meetdewey/sdk
 
   # Python
-  pip install dewey-sdk
+  pip install meetdewey
+
+  # LangChain
+  pip install langchain-dewey
   ```
 
   Sign up at [meetdewey.com](https://meetdewey.com) to get an API key. Free tier available, no credit card required.
