@@ -46,6 +46,9 @@
   # LlamaIndex
   pip install llama-index-retrievers-dewey
 
+  # Vercel AI SDK
+  npm install @meetdewey/vercel-ai
+
   # Haystack
   pip install dewey-haystack
   ```
