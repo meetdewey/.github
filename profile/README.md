@@ -23,7 +23,7 @@
   | [`@meetdewey/sdk`](https://github.com/meetdewey/typescript-sdk) | Official TypeScript SDK |
   | [`meetdewey`](https://github.com/meetdewey/python-sdk) | Official Python SDK |
   | [`langchain-dewey`](https://github.com/meetdewey/langchain-dewey) | LangChain integration — retriever, vector store, and research tool |
-  | [`llama-index-retrievers-dewey`](https://pypi.org/project/llama-index-retrievers-dewey/) | LlamaIndex integration — retriever for hybrid search and section-aware retrieval |
+  | [`llama-index-retrievers-dewey`](https://github.com/meetdewey/llama-index-retrievers-dewey) | LlamaIndex integration — retriever for hybrid search and section-aware retrieval |
   | [`dewey-haystack`](https://github.com/meetdewey/dewey-haystack) | Haystack integration — document store, retriever, and research component |
   | [`streamlit-demo`](https://github.com/meetdewey/streamlit-demo) | Streamlit demo app — build a document Q&A UI in minutes |
 
