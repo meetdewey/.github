@@ -24,6 +24,7 @@
   | [`meetdewey`](https://github.com/meetdewey/python-sdk) | Official Python SDK |
   | [`langchain-dewey`](https://github.com/meetdewey/langchain-dewey) | LangChain integration — retriever, vector store, and research tool |
   | [`llama-index-retrievers-dewey`](https://github.com/meetdewey/llama-index-retrievers-dewey) | LlamaIndex integration — retriever for hybrid search and section-aware retrieval |
+  | [`@meetdewey/vercel-ai`](https://github.com/meetdewey/vercel-ai-dewey) | Vercel AI SDK integration — retrieval and research tools |
   | [`dewey-haystack`](https://github.com/meetdewey/dewey-haystack) | Haystack integration — document store, retriever, and research component |
   | [`streamlit-demo`](https://github.com/meetdewey/streamlit-demo) | Streamlit demo app — build a document Q&A UI in minutes |
 
