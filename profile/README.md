@@ -22,6 +22,7 @@
   | [`@meetdewey/mcp`](https://github.com/meetdewey/mcp) | MCP server — use your document collections in Claude, ChatGPT, and Cursor |
   | [`@meetdewey/sdk`](https://github.com/meetdewey/typescript-sdk) | Official TypeScript SDK |
   | [`meetdewey`](https://github.com/meetdewey/python-sdk) | Official Python SDK |
+  | [`dewey-cli`](https://github.com/meetdewey/dewey-cli) | Official Dewey CLI |
   | [`langchain-dewey`](https://github.com/meetdewey/langchain-dewey) | LangChain integration — retriever, vector store, and research tool |
   | [`llama-index-retrievers-dewey`](https://github.com/meetdewey/llama-index-retrievers-dewey) | LlamaIndex integration — retriever for hybrid search and section-aware retrieval |
   | [`@meetdewey/vercel-ai`](https://github.com/meetdewey/vercel-ai-dewey) | Vercel AI SDK integration — retrieval and research tools |
